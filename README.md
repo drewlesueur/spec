@@ -1,3 +1,5 @@
+This for adds support for helpers. See specs/~helpers.yml
+
 The repository at https://github.com/mustache/spec is the formal standard for
 Mustache.  It defines both normal usage and edge-case behavior for libraries
 parsing the Mustache templating language (or a superset thereof).
