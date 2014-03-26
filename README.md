@@ -1,4 +1,5 @@
 This for adds support for helpers. See specs/~helpers.yml
+The implementation of this is at https://github.com/drewlesueur/hogan.js
 
 The repository at https://github.com/mustache/spec is the formal standard for
 Mustache.  It defines both normal usage and edge-case behavior for libraries
